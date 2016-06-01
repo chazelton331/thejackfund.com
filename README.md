@@ -4,7 +4,7 @@ Hosted as a static site on S3:
 
 http://thejackfund.com.s3-website-us-east-1.amazonaws.com/
 
-Buckes policy:
+Bucket policy:
 
 ```
 {
